@@ -1,7 +1,7 @@
 {
-  "name": "gomn",
+  "name": "grunt-skeleton",
   "version": "1.0.0",
-  "description": "Package for windowpanes.",
+  "description": "Package for grunt skeleton.",
   "author": "Chris Stromquist",
   "license": "ISC",
   "dependencies": {
